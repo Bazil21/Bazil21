@@ -44,16 +44,10 @@
 </a>
 </p>
 <h2 align="center">
-  <img align="center" height="608px" alt="guy" width="936" src="https://code.visualstudio.com/assets/docs/editor/github/clone-from-github.gif" />
- 
+  <img align="center" height="300px" alt="gif" width="600" src="https://code.visualstudio.com/assets/docs/editor/github/clone-from-github.gif" />
 </h2>
+
 <br/>
-
-
-<br/> 
-
----
-
 ### Languages and Tools 🛠 
 <br/>
 
