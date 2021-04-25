@@ -4,10 +4,7 @@
 <h4 align="center">Visitor's count :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{bazil21}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
-<br/>
 
-
----
 <p>
 
 <a align= "center" href="https://github.com/bazil21">
