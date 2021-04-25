@@ -1,18 +1,13 @@
-<h1 align="center">Hi 👋, I'm Bazil Farooq</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<h4 align="center">Visitor's count :eyes:</h4>
+<h1 align="center">Hi 😀, I'm Bazil Farooq</h1>
+<h3 align="center">A passionate frontend developer from Pakistan💚</h3>
+<h2 align ="center"><img align="center" height="220px" alt="guy" width="220" src="https://media.tenor.com/images/729c41c478598125bd1316085956a5f5/tenor.gif" /> </h2>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{bazil21}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+<h4 align="right">Visitor's count 💌:</h4>
 
-<p>
+<p align="right"><img src="https://profile-counter.glitch.me/{bazil21}/count.svg" alt="bazil21 :: Visitor's Count" /></p>
 
-<a align= "center" href="https://github.com/bazil21">
-  <img alt= "stats card" height="270px" width="400" src="https://github-readme-stats.vercel.app/api?username=bazil21&theme=cobalt&show_icons=true&include_all_commits=true" />
-  <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
 
-</p>
-<br/>
 
 
 
@@ -36,7 +31,21 @@
  <a href="https://www.facebook.com/bazil.mian.2.1/"><img src="https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
 
 </p>
+<br/>
 
+
+<br/> 
+
+---
+<p>
+
+<a align= "center" href="https://github.com/bazil21">
+  <img alt= "stats card" height="270px" width="400" src="https://github-readme-stats.vercel.app/api?username=bazil21&theme=cobalt&show_icons=true&include_all_commits=true" />
+  <img align="right" height="300px" alt="guy" width="500" src="https://code.visualstudio.com/assets/docs/editor/github/clone-from-github.gif" />
+  </a>
+
+</p>
+<br/>
 
 
 <br/> 
