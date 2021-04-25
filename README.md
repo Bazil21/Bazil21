@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bazil Farooq</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bazil21&label=Profile%20views&color=0e75b6&style=flat" alt="bazil21" /> </p>
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{bazil21}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bazil21" alt="bazil21" /></a> </p>
 
@@ -26,6 +28,9 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bazil21&show_icons=true&locale=en" alt="bazil21" /></p>
+---
+### 🐱My Github stats:
+![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=bazil21&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bazil21&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bazil21&" alt="bazil21" /></p>
