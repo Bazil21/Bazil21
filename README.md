@@ -41,10 +41,12 @@
 
 <a align= "center" href="https://github.com/bazil21">
   <img alt= "stats card" height="270px" width="400" src="https://github-readme-stats.vercel.app/api?username=bazil21&theme=cobalt&show_icons=true&include_all_commits=true" />
-  <img align="right" height="300px" alt="guy" width="500" src="https://code.visualstudio.com/assets/docs/editor/github/clone-from-github.gif" />
-  </a>
-
+</a>
 </p>
+<h2 align="center">
+  <img align="center" height="608px" alt="guy" width="936" src="https://code.visualstudio.com/assets/docs/editor/github/clone-from-github.gif" />
+ 
+</h2>
 <br/>
 
 
