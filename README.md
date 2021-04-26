@@ -14,11 +14,11 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React;**
 
 - 👨‍💻 All of my projects are available at [https://bazil-porfolio-021.web.app](https://bazil-porfolio-021.web.app)
 
-- 💬 Ask me about **html , CSS , bootstrap , JavaScript**
+- 💬 **I love connecting with different people so if you want any help, I'll be happy to meet you more! :) ;**
 
 - 📫 How to reach me **mianbazil21@gmail.com**
 
