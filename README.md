@@ -42,6 +42,16 @@
   <img alt= "stats card" height="270px" width="400" src="https://github-readme-stats.vercel.app/api?username=bazil21&theme=cobalt&show_icons=true&include_all_commits=true" />
 </a>
 </p>
+ <p align="center">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bazil21&layout=compact&theme=cobalt" alt="My Github Stats">
+ </p>
+ 
+ <br/>
+
+
+<br/> 
+
+---
 <h2 align="center">
   <img align="center" height="330px" alt="gif" width="600" src="https://code.visualstudio.com/assets/docs/editor/github/clone-from-github.gif" />
 </h2>
