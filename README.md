@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from Pakistan💚</h3>
 <h2 align ="center"><img align="center" height="220px" alt="guy" width="220" src="https://media.tenor.com/images/729c41c478598125bd1316085956a5f5/tenor.gif" /> </h2>
 
-<h4 align="right">Visitor's count 💌:</h4>
+<h4 align="right">Thanks For Visiting My Profile 💌</h4>
 
 <p align="right"><img src="https://profile-counter.glitch.me/{bazil21}/count.svg" alt="bazil21 :: Visitor's Count" /></p>
 
@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **React;**
 
-- 👨‍💻 All of my projects are available at [https://bazil-porfolio-021.web.app](https://bazil-porfolio-021.web.app)
+- 👨‍💻 Check my Porfolio here: [https://bazil-porfolio-021.web.app](https://bazil-porfolio-021.web.app)
 
 - 💬 **I love connecting with different people so if you want any help, I'll be happy to meet you more! :) ;**
 
