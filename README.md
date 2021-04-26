@@ -37,6 +37,7 @@
 <br/> 
 
 ---
+
 <p align="center">
 <a align= "center" href="https://github.com/bazil21">
   <img alt= "stats card" height="270px" width="400" src="https://github-readme-stats.vercel.app/api?username=bazil21&theme=cobalt&show_icons=true&include_all_commits=true" />
@@ -45,7 +46,6 @@
  <p align="center">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bazil21&layout=compact&theme=cobalt" alt="My Github Stats">
  </p>
- 
  <br/>
 
 
