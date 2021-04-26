@@ -18,7 +18,7 @@
 
 - 👨‍💻 Check my Porfolio here: [https://bazil-porfolio-021.web.app](https://bazil-porfolio-021.web.app)
 
-- 💬 **I love connecting with different people so if you want any help, I'll be happy to meet you more! :) ;**
+- 💬 **I love connecting with different people so if you want any help, <br/> I'll be happy to meet you more! :) ;**
 
 - 📫 How to reach me **mianbazil21@gmail.com**
 
