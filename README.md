@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 😀, I'm Bazil Farooq</h1>
 <h3 align="center">A passionate frontend developer from Pakistan💚</h3>
 <h2 align ="center"><img align="center" height="220px" alt="guy" width="220" src="https://media.tenor.com/images/729c41c478598125bd1316085956a5f5/tenor.gif" /> </h2>
