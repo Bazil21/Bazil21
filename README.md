@@ -55,7 +55,7 @@
 
 ---
 <h2 align="center">
-  <img align="center" height="330px" alt="gif" width="600" src="https://code.visualstudio.com/assets/docs/editor/github/clone-from-github.gif" />
+  <img align="center" height="330px" alt="gif" width="600" src="https://i.gifer.com/87.mp4" />
 </h2>
 
 <br/>
