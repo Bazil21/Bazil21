@@ -55,7 +55,7 @@
 
 ---
 <h2 align="center">
-  <img align="center" height="330px" alt="gif" width="600" src="https://i.gifer.com/87.mp4" />
+  <img align="center" height="330px" alt="gif" width="600" src="https://media3.giphy.com/media/26u4nJPf0JtQPdStq/100.webp?cid=ecf05e47yw4zzdnhtfmtmu7f0ox1j4rt9oetf9k9hdabd63e&rid=100.webp&ct=g" />
 </h2>
 
 <br/>
