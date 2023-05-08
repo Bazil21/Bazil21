@@ -3,7 +3,7 @@
 
 
 
-<img src="[https://giphy.com/embed/ule4vhcY1xEKQ](https://i.giphy.com/media/ule4vhcY1xEKQ/giphy.webp)" alt="Cat Lover" />
+<img src="https://media2.giphy.com/media/ule4vhcY1xEKQ/giphy…yfxz1lunlabc&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Cat Lover" />
 <h4 align="right">Thanks For Visiting My Profile 💌</h4>
 
 
