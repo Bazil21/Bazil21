@@ -1,7 +1,8 @@
 <h1 align="center">Hi 😀, I'm Bazil Farooq</h1>
 <h3 align="center">A passionate Full Stack Developer from Pakistan💚</h3>
-<iframe src="https://giphy.com/embed/ule4vhcY1xEKQ" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/reactionseditor-cat-typing-ule4vhcY1xEKQ">via GIPHY</a></p>
+
 <h4 align="right">Thanks For Visiting My Profile 💌</h4>
+<h2 align ="center"><img align="center" height="220px" alt="guy" width="220" src="[https://media.tenor.com/images/729c41c478598125bd1316085956a5f5/tenor.gif](https://giphy.com/gifs/reactionseditor-cat-typing-ule4vhcY1xEKQ)" /> </h2>
 
 <p align="right"><img src="https://profile-counter.glitch.me/{bazil21}/count.svg" alt="bazil21 :: Visitor's Count" /></p>
 
