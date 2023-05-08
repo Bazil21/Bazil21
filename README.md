@@ -2,8 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer from Pakistan💚</h3>
 
 
-
-<img src="[https://media2.giphy.com/media/ule4vhcY1xEKQ/giphy…yfxz1lunlabc&ep=v1_gifs_search&rid=giphy.gif&ct=g](https://gifdb.com/images/thumbnail/stressed-cat-typing-on-laptop-hb8mcu0du3pvt8x1.gif)" alt="Cat Lover" />
+![]([http://i.imgur.com/OUkLi.gif](https://media2.giphy.com/media/ule4vhcY1xEKQ/giphy…yfxz1lunlabc&ep=v1_gifs_search&rid=giphy.gif&ct=g](https://gifdb.com/images/thumbnail/stressed-cat-typing-on-laptop-hb8mcu0du3pvt8x1.gif))
 <h4 align="right">Thanks For Visiting My Profile 💌</h4>
 
 
