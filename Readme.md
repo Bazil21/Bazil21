@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Laravel;**
 
-- 👨‍💻 Check my Porfolio here: [https://bazil-porfolio-021.web.app](https://bazil-porfolio-021.web.app)
+- 👨‍💻 Check my Porfolio here: [https://bazil-porfolio-021.web.app](https://bazil-farooq.web.app/)
 
 - 💬 **I love connecting with different people so if you want any help, <br/> I'll be happy to meet you more! :) ;**
 
