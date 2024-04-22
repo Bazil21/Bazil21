@@ -1,5 +1,5 @@
 <h1 align="center">Hi 😀, I'm Bazil Farooq</h1>
-<h3 align="center">A passionate PHP WEB Developer from Pakistan💚</h3>
+<h3 align="center">A passionate Full Stack Developer expertise in PHP | Node JS | Nest JS Developer from Pakistan💚</h3>
 
 
 ![](https://i.gifer.com/8MtO.gif)
